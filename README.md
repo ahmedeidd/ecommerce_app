@@ -2,7 +2,7 @@
 
 ## some vidoes
 <!-- record_1 -->
-![original Design](https://github.com/ahmedeidd/shopLovers/blob/master/screenshots/record_1.gif "Design")
+![original Design](https://github.com/ahmedeidd/ecommerce_app/blob/main/screenshots/record_1.gif "Design")
 
 
 ## Screenshots
