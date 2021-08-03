@@ -1,6 +1,6 @@
 # ecommerce_app_eid
 
-## some vidoes
+## some videos
 <!-- record_1 -->
 ![original Design](https://github.com/ahmedeidd/ecommerce_app/blob/main/screenshots/record_1.gif "Design")
 
